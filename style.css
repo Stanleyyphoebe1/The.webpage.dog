@@ -6,6 +6,7 @@ IMG{display: block; margin-left: auto; margin-right: auto}
 p{display: position; margin-left: center; margin-right: center;}
 ul{display: position; text-align: center; list-style-position: inside; }
 body{background-color: whitesmoke;}
+
 h1 img{width: 600px; height: 150px; text-align: center; border-style: none; boder-width: none; border-color: none;}
 
 h2{color: black; text-align: center;}
